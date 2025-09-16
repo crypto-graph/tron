@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Production build
+build/
+
+# Testing
+coverage/
+
+# Misc
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# IDE/editor
+.vscode/
+.idea/
+*.iml

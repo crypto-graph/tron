@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tron/static/css/main.616ba065.css",
+    "main.js": "/tron/static/js/main.c6c2220c.js",
+    "static/js/453.2459d280.chunk.js": "/tron/static/js/453.2459d280.chunk.js",
+    "index.html": "/tron/index.html",
+    "main.616ba065.css.map": "/tron/static/css/main.616ba065.css.map",
+    "main.c6c2220c.js.map": "/tron/static/js/main.c6c2220c.js.map",
+    "453.2459d280.chunk.js.map": "/tron/static/js/453.2459d280.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.616ba065.css",
+    "static/js/main.c6c2220c.js"
+  ]
+}
